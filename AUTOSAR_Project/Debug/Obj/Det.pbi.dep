@@ -1,0 +1,5 @@
+Det.pbi: D:\AUTOSAR\Final\Arch\AUTOSAR_Project\Det.c \
+  D:\AUTOSAR\Final\Arch\AUTOSAR_Project/Det.h \
+  D:\AUTOSAR\Final\Arch\AUTOSAR_Project/Std_Types.h \
+  D:\AUTOSAR\Final\Arch\AUTOSAR_Project/Platform_Types.h \
+  D:\AUTOSAR\Final\Arch\AUTOSAR_Project/Compiler.h

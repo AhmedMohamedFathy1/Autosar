@@ -1,0 +1,5 @@
+main.pbi: D:\AUTOSAR\Final\Arch\AUTOSAR_Project\main.c \
+  D:\AUTOSAR\Final\Arch\AUTOSAR_Project/Os.h \
+  D:\AUTOSAR\Final\Arch\AUTOSAR_Project/Std_Types.h \
+  D:\AUTOSAR\Final\Arch\AUTOSAR_Project/Platform_Types.h \
+  D:\AUTOSAR\Final\Arch\AUTOSAR_Project/Compiler.h
